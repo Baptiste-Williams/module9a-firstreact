@@ -1,12 +1,24 @@
-# React + Vite
+# Module 9A - My First React Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a React app made using Vite. It shows a UserProfile and a ContactCard. The app uses inline CSS and hover effects to make things look more interesting. I added a glowing border and a phrase that represents me.
 
-Currently, two official plugins are available:
+## About Me
+My name is Baptiste Williams. I’m a former Navy servicemember and arena football player. I live in Los Angeles and go to Santa Monica College, working toward a cybersecurity certification. I’m learning web development and built this project to show what I’ve learned.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What I Learned
+- How to set up a React app with Vite
+- How to write components in JSX
+- How to add props to pass data
+- How to style elements using inline CSS
+- How to use hover effects and box shadows
 
-## Expanding the ESLint configuration
+## Challenges
+I had some trouble getting the image to show correctly. I fixed it by saving the image locally and importing it into my component. I also had some syntax errors with JSX styles that I learned how to fix.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Extra Features
+- The card glows when you hover over it
+- The profile image grows when you hover
+- The phrase "Get in where you fit in!" is styled to stand out
+
+Baptiste
