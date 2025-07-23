@@ -21,4 +21,11 @@ I had some trouble getting the image to show correctly. I fixed it by saving the
 - The profile image grows when you hover
 - The phrase "Get in where you fit in!" is styled to stand out
 
+- ## Screen Shot
+- <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dbb04616-e2a2-4da9-b784-ee3e9d609810" />
+
+  
+
+
+
 Baptiste
